@@ -1,5 +1,7 @@
 # BRTM Procurement Agent
 
+[![Python tests](https://github.com/debnathch/BRTM_Procurement_agent/actions/workflows/pytest.yml/badge.svg?branch=main)](https://github.com/debnathch/BRTM_Procurement_agent/actions/workflows/pytest.yml)
+
 Local-first pharmaceutical procurement agent for MARG ERP.
 
 ## Architecture
